@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "traveling (Re-Recording)",
+  "base_artist": "Hikaru Utada",
+  "createdAt": "2026-02-09T03:29:18.711118Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "traveling - Re-Recording",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/01_traveling_-_Re-Recording_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "traveling (Re-Recording)",
+      "artist": "Utada Hikaru",
+      "has_synced": true,
+      "path": "select/02_traveling_(Re-Recording)_Utada_Hikaru.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "traveling (Re-Recording)",
+      "artist": "宇多田ヒカル",
+      "has_synced": true,
+      "path": "select/03_traveling_(Re-Recording)_宇多田ヒカル.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "traveling (Re-Recording)",
+      "artist": "Hikaru Utada",
+      "has_synced": false,
+      "path": "select/04_traveling_(Re-Recording)_Hikaru_Utada.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "traveling (Re‐Recording)",
+      "artist": "Hikaru Utada",
+      "has_synced": true,
+      "path": "select/05_traveling_(Re‐Recording)_Hikaru_Utada.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "traveling (Re-Recording)",
+      "artist": "宇多田 ヒカル",
+      "has_synced": false,
+      "path": "select/pl_01_traveling_(Re-Recording)_宇多田_ヒカル.txt"
+    }
+  ]
+}
